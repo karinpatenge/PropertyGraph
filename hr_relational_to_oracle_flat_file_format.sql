@@ -1,4 +1,8 @@
 --
+-- Author: Karin Patenge
+--
+
+--
 -- Connect to schema HR
 --
 
